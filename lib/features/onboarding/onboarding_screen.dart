@@ -36,8 +36,7 @@ class _OnboardingScreenState extends State<OnboardingScreen> {
 
   final List<Map<String, String>> pages = [
     {
-      'image':
-      'https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=800&q=80',
+      'image': 'https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=800&q=80',
       'title': 'Discover the world, one journey at a time.',
       'desc': 'From hidden gems to iconic destinations.'
     },
